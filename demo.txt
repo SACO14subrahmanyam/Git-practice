@@ -1,4 +1,1 @@
-my name is subrahmanyam and purusing btec
-i working as devops intern at health catalyst
-hiiii
-cloud and git
+ "My name is Subrahmanyam, and I am pursuing B.Tech. I’m working as a DevOps Intern at Health Catalyst. I’m learning Cloud and Git. My mentor is Prince."
